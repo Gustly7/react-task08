@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilmList component test suite FilmList snapshot renders correctly 1`] = `
+<div
+  className="container filmList"
+>
+  <div
+    className="data-list-item"
+  >
+    <div
+      className="details"
+    />
+    <div
+      className="Film"
+    >
+      <div
+        className="container"
+      >
+        <div
+          className="row"
+        >
+          <div
+            className="col"
+          >
+            <div
+              className="Poster"
+            >
+              <img
+                alt={undefined}
+                src="https://images-na.ssl-images-amazon.com/images/I/41qSUP7S3XL._AC_UL320_SR228,320_.jpg"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          className="row"
+        >
+          <div
+            className="col"
+          >
+            <div
+              className="FilmName"
+            />
+          </div>
+          <div
+            className="col"
+          >
+            <div
+              className="FilmYear"
+            >
+              01-0
+            </div>
+          </div>
+        </div>
+        <div
+          className="row"
+        >
+          <div
+            className="col"
+          >
+            <div
+              className="FilmGenre"
+            >
+              Action
+              Adventure
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

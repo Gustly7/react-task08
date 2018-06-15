@@ -1,0 +1,20 @@
+.Poster img{
+    width: 250px;
+    height: 356.5px;
+}
+.FilmName{
+    text-align: left;
+    font-weight: bold;
+}
+.FilmYear{
+    border: 1px;
+    border-style: solid;
+    text-align: center;
+}
+.FilmGenre{
+    text-align: left;
+    color: gray;
+}
+.Film{
+    padding: 20px;
+}

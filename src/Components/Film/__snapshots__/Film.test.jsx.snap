@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Film component test suite Film snapshot renders correctly 1`] = `
+<div
+  className="Film"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+      >
+        <div
+          className="Poster"
+        >
+          <img
+            alt={undefined}
+            src=""
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+      >
+        <div
+          className="FilmName"
+        />
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          className="FilmYear"
+        >
+          2000
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+      >
+        <div
+          className="FilmGenre"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

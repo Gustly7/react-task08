@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Poster component test suite Poster snapshot renders correctly 1`] = `
+<div
+  className="Poster"
+>
+  <img
+    alt={undefined}
+    src={undefined}
+  />
+</div>
+`;

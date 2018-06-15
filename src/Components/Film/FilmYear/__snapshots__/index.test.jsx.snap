@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilmYear component test suite FilmYear snapshot renders correctly 1`] = `
+<div
+  className="FilmYear"
+>
+  2000
+</div>
+`;

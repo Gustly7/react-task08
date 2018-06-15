@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer component test suite Footer snapshot renders correctly 1`] = `
+<div
+  className="Footer"
+>
+  <span
+    className="title red-font"
+  >
+    netflixroulette
+  </span>
+</div>
+`;

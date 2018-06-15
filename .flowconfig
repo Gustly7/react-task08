@@ -1,0 +1,3 @@
+[ignore]
+.*/node_modules/.*[^e]\.json$
+.*/node_modules/.*\(lib\|test\).*\.json$

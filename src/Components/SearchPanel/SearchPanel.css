@@ -1,0 +1,25 @@
+.SearchPanel H1{
+    text-align: left;
+}
+.SearchPanel td{
+    text-align: left;
+}
+.red-font {
+    color: #f55363;
+}
+.white-font {
+    color: #FFF;
+    font-weight: Bold;
+    font-family: Fuller, Sans, DT;
+}
+.title {
+    font-weight: bold;
+    position: relative;
+    font-size: 14pt;
+}
+.SearchButton{
+    float:right;
+}
+.SearchType{
+    float: left;
+}
